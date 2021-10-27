@@ -24,25 +24,37 @@
 
 **关于系统：**
 
+[关于系统](img/关于系统.png)
+
 <img src="img/关于系统.png" alt="关于系统" style="zoom:50%;" />
 
 **快捷开关：**
+
+[控制器](img/控制器.png)
 
 ![控制器](img/控制器.png)
 
 **Wi-FI：**
 
+[关于Wi-Fi](img/wifi.png)
+
 ![wifi](img/wifi.png)
 
 **USB: **
+
+[USB](img/USB.png)
 
 ![USB](img/USB.png)
 
 **蓝牙：**
 
+[蓝牙参数](img/蓝牙.png)
+
 ![蓝牙](img/蓝牙.png)
 
 **显示器：**
+
+[显示器](img/显示器.png)
 
 ![显示器](img/显示器.png)
 
