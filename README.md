@@ -1,7 +1,3 @@
----
-typora-root-url: /Users/qinnan/Desktop/EFI/img
----
-
 ## 本项目为神舟Z7M-KP7GT的OC-EFI引导文件
 
 基于**黑果小兵**的EFI进行完善，目前在11.6（Big Sur）上除了偶尔睡眠卡死外基本正常运行。
