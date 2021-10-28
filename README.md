@@ -24,6 +24,8 @@
 
 **关于系统：**
 
+![关于系统](https://github.com/zhaixiuyan/EFI/raw/main/img/USB.png)
+
 [关于系统](img/关于系统.png)
 
 <img src="img/关于系统.png" alt="关于系统" style="zoom:50%;" />
