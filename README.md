@@ -21,19 +21,13 @@
 
 **快捷开关：**
 
-[控制器](img/控制器.png)
-
 ![控制器](img/控制器.png)
 
 **Wi-FI：**
 
-[关于Wi-Fi](img/wifi.png)
-
 ![wifi](img/wifi.png)
 
 **USB: **
-
-[USB](img/USB.png)
 
 ![USB](img/USB.png)
 
@@ -44,8 +38,6 @@
 ![蓝牙](img/蓝牙.png)
 
 **显示器：**
-
-[显示器](img/显示器.png)
 
 ![显示器](img/显示器.png)
 
