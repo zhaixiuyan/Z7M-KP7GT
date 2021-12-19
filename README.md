@@ -35,7 +35,7 @@
 
 <img src="img/关于系统.png" alt="关于系统" style="zoom:50%;" />
 
-显示器：**
+显示器：
 
 ![显示器](img/显示器.png)
 
@@ -45,7 +45,7 @@
 
 **触摸板：**
 
-<img src="img/触摸板-手势.png" alt="触摸板" style="zoom:50%;" />
+<img src="img/触摸板-手势.png" alt="触摸板" style="zoom:30%;" />
 
 **Wi-FI：**
 
@@ -58,12 +58,6 @@
 **蓝牙：**
 
 <img src="img/蓝牙.png" alt="蓝牙" style="zoom:67%;" />
-
-**显示器：**
-
-![显示器](img/显示器.png)
-
-
 
 **感谢:**
 
