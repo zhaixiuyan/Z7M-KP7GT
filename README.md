@@ -8,9 +8,7 @@
 
 ### **已支持：**
 
-- Intel 630 核显 1536M
-
-  亮度快捷键需要在 “ 系统偏好 - 键盘 -快捷键 -显示器 ” 修改为 F8 & F9
+- Intel 630 核显 2048M
 
 - Wi-Fi
 
@@ -18,9 +16,11 @@
 
 - 蓝牙（蓝牙耳机可以正常使用，手机链接秒断）
 
-- 触摸板（部分手势可识别：音量调节）
+- 触摸板
 
-- 睡眠可唤醒
+  手势完全支持
+
+- 睡眠正常
 
 - 原生电池
 
@@ -35,25 +35,35 @@
 
 <img src="img/关于系统.png" alt="关于系统" style="zoom:50%;" />
 
+显示器：**
+
+![显示器](img/显示器.png)
+
 **快捷开关：**
 
 ![控制器](img/控制器.png)
 
+**触摸板：**
+
+<img src="img/触摸板-手势.png" alt="触摸板" style="zoom:50%;" />
+
 **Wi-FI：**
 
-![wifi](img/wifi.png)
+<img src="img/wifi.png" alt="wifi" style="zoom:50%;" />
 
 **USB: **
 
-![USB](img/USB.png)
+<img src="img/USB.png" alt="USB" style="zoom:50%;" />
 
 **蓝牙：**
 
-![蓝牙](img/蓝牙.png)
+<img src="img/蓝牙.png" alt="蓝牙" style="zoom:67%;" />
 
 **显示器：**
 
 ![显示器](img/显示器.png)
+
+
 
 **感谢:**
 
